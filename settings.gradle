@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "usjt_20211_ads1an_mcb_ciclo_de_vida_gps2"
